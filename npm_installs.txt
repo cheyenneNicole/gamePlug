@@ -1,0 +1,10 @@
+If your program does not work run these commands in game-plug:
+npm install react
+npm add react react-dom react-native-web
+npm install bootstap
+npm install reactstrap
+npm install material-ui/core
+AFTER you do git pull, just do npm install and 
+it will install everything you are missing
+If it still doesnt work go to package.json and install the 
+dependencies you haven't install already
